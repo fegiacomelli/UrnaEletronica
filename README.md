@@ -3,11 +3,11 @@
 
 Numeros eleitorais
 
-PRESIDENTE         Lisa  --->  78
+PRESIDENTE <br/>        Lisa  --->  78 <br/>
                    Burns --->  66
                    
    
-PREFEITO           Homer  --->  88888
+PREFEITO <br/>           Homer  --->  88888<br/>
                    krusty --->  12345
                    
                    
